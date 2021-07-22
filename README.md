@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p>
-**SaaraAnand/SaaraAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Saara Anand ✨ 
 
 - 🔭 I’m currently working on Scientific projects
 - 🌱 I’m currently learning advanced Mathematics and Physics
