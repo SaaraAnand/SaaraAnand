@@ -9,5 +9,5 @@ I'm Saara Anand ✨
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 💬 Ask me about HTML, GIMP and innovative ideas 
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/saara-anand-0477a1213
-- ⚡ Fun fact: A good orator who is self motivated and science enthusiast.
+- ⚡ Fun fact: A good orator who is self motivated and a science enthusiast.
 </p>
