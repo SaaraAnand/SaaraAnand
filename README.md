@@ -22,7 +22,7 @@
 <p>
 I'm Saara Anand ✨ 
 
-- 🔭 I’m currently working on Artificial Intelligence,Machine Learning, DSA and web development projects.
+- 🔭 I’m currently working on Artificial Intelligence,Machine Learning, Data Structures and Algorithms and Web Development projects.
 - 🌱 I’m currently learning java,data structures,algorithms,python,problem solving and web designing.
 - 👯 I’m looking to collaborate on Artificial Intelligence and Data Structures projects.
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
