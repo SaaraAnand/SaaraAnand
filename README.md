@@ -32,7 +32,7 @@ I'm Saara Anand ✨
 </p>
  :hammer_and_wrench: Languages and Tools :
 
-2
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SaaraAnand&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaraAnand&langs_count=5&theme=tokyonight)]()
 
