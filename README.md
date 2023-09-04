@@ -37,7 +37,5 @@ I'm Saara Anand ✨
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaraAnand&langs_count=5&theme=tokyonight)]()
 
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
